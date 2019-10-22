@@ -1,2 +1,3 @@
 This is some example test
 This is the second line
+My line is better though because third time is the charm
